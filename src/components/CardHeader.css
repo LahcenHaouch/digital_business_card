@@ -1,0 +1,34 @@
+.header {
+    text-align: center;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+
+.job {
+    color: #F3BF99;
+}
+
+.cta {
+    display: flex;
+    gap: 1rem;
+}
+
+.btn {
+    padding: 0.5rem 1.75rem;
+    text-decoration: none;
+    border-radius: 0.25rem;
+}
+
+.email {
+    background-color: white;
+    color: #374151;
+}
+
+.linkedin {
+    background-color: #5093E2;
+    color: white;
+}
+
+h1, .job, .website {
+    margin-bottom: 0.5rem;
+}
